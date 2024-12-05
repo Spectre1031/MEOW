@@ -1,0 +1,14 @@
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\bin\Debug\net8.0\CharacterCreationSystem.exe
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\bin\Debug\net8.0\CharacterCreationSystem.deps.json
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\bin\Debug\net8.0\CharacterCreationSystem.runtimeconfig.json
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\bin\Debug\net8.0\CharacterCreationSystem.dll
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\bin\Debug\net8.0\CharacterCreationSystem.pdb
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.AssemblyInfo.cs
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.dll
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\refint\CharacterCreationSystem.dll
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.pdb
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\CharacterCreationSystem.genruntimeconfig.cache
+C:\Users\Emmanuel\Documents\COPRO3_1STSEM\Programs\FINALS\CharacterCreationSystem\CharacterCreationSystem\obj\Debug\net8.0\ref\CharacterCreationSystem.dll
